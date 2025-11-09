@@ -1,0 +1,66 @@
+# ===============================
+# IMAGE FILES
+# ===============================
+
+# Common raster image formats
+*.jpg
+*.jpeg
+*.jpe
+*.jif
+*.jfif
+*.pjpeg
+*.pjp
+*.png
+*.gif
+*.bmp
+*.dib
+*.tif
+*.tiff
+*.ico
+*.webp
+*.heic
+*.heif
+*.avif
+
+# Raw photography formats
+*.raw
+*.cr2
+*.cr3
+*.nef
+*.orf
+*.sr2
+*.arw
+*.rw2
+*.dng
+
+# Vector graphics formats
+*.svg
+*.svgz
+*.ai
+*.eps
+
+# Photoshop and design files
+*.psd
+*.psb
+*.xcf
+*.kra
+
+# Thumbnails or generated image caches
+*_thumb.*
+*_thumbnail.*
+*_preview.*
+*_small.*
+*_backup.*
+
+# macOS and Windows thumbnails
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Optional: keep specific folders tracked
+# ===============================
+# Example — allow images in 'assets/icons/' but ignore all others
+#!assets/icons/
+#!assets/icons/**
+
+.secret
